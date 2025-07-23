@@ -1,4 +1,4 @@
-class Solution:
+#class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         l = len(nums)
         for i in range(l-1):
